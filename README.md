@@ -1,11 +1,22 @@
 # 👋 Olá, eu sou Pedro Henrique!
+---
 
 💻 **Desenvolvedor Back-end**
-📍 Fortaleza, CE 🇧🇷
 
-Atualmente estou cursando **Ciência da Computação**, no 2º semestre, e possuo formação técnica em **Análise e Desenvolvimento de Sistemas (ADS)** pelo **SENAI**.
+🎓 **Ciência da Computação** • 2º Semestre
 
-Tenho experiência com **JavaScript**, **Python**, **Git**, **GitHub** e **MySQL**. Atualmente, estou estudando **Java** e buscando aprimorar meus conhecimentos em desenvolvimento back-end.
+📍 **Fortaleza, CE**
+
+---
+### 📖 Sobre mim
+
+Atualmente estou cursando **Ciência da Computação**, e possuo formação técnica em **Análise e Desenvolvimento de Sistemas** pelo **SENAI**.
+
+Tenho experiência com **JavaScript**, **Python**, **Git**, **GitHub** e **MySQL**. Atualmente, estou estudando **Java** e buscando aprimorar meus conhecimentos em desenvolvimento Back-End.
+
+Durante minha formação em Analise Desenvolvimento de Sistemas pelo SENAI desenvolvi projetos pessoais e em grupos, adquirindo experiência tanto em banco de dados como no versionamento de código (Git).
+
+Atualmente em Ciência da Computação na Estácio estou aprimorando meus conhecimentos na área de desenvolvimento Back-End e buscando aprender cada dia mais com novas tecnologias.
 
 ---
 
@@ -27,30 +38,10 @@ Tenho experiência com **JavaScript**, **Python**, **Git**, **GitHub** e **MySQL
 ## 🎓 Formação Acadêmica
 
 **🎓 Ciência da Computação**
-2º semestre — Em andamento
+2º semestre — Em andamento - Estácio
 
-**💻 Técnico em Análise e Desenvolvimento de Sistemas (ADS)**
+**💻 Técnico em Análise e Desenvolvimento de Sistemas**
 SENAI — Concluído
-
----
-
-## 📚 Atualmente estudando
-
-☕ **Java**
-🔧 **Desenvolvimento Back-end**
-🗄️ **Banco de dados e desenvolvimento de aplicações**
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrohenrique-07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenrique-07&layout=compact&langs_count=7&theme=tokyonight"/>
-
-</div>
 
 ---
 
