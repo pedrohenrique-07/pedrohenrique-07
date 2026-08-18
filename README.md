@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Olá, eu sou Pedro Henrique!
 
-<!--
-**pedrohenrique-07/pedrohenrique-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desenvolvedor Back-end**
+📍 Fortaleza, CE 🇧🇷
 
-Here are some ideas to get you started:
+Atualmente estou cursando **Ciência da Computação**, no 2º semestre, e possuo formação técnica em **Análise e Desenvolvimento de Sistemas** pelo **SENAI**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho experiência com desenvolvimento utilizando **JavaScript**, **Python**, além de conhecimentos em **Git, GitHub e MySQL**. Atualmente, estou estudando **Java** e buscando aprimorar cada vez mais minhas habilidades em desenvolvimento Back-End.
+
+---
+
+## 🚀 Tecnologias e Ferramentas
+
+### 💻 Linguagens
+* Python
+* JavaScript
+* Java *(em aprendizado)*
+
+### 🗄️ Banco de Dados
+
+* MySQL
+
+### 🛠️ Ferramentas
+
+* Git
+* GitHub
+
+---
+
+## 🎓 Formação Acadêmica
+
+**🎓 Ciência da Computação**
+Cursando — 2º semestre - Estácio
+
+**💻 Técnico em Análise e Desenvolvimento de Sistemas**
+SENAI — Concluído
+
+---
+
+## 📚 Atualmente estudando
+
+* ☕ Java
+* 🔧 Desenvolvimento Back-end
+* 🗄️ Banco de dados e integração com aplicações
+
+---
+
+## 📫 Contato
+
+📧 **E-mail:** [delimasantanapedrohenrique@gmail.com](mailto:delimasantanapedrohenrique@gmail.com)
+
+---
