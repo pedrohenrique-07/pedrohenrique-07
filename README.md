@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Pedro Henrique!
 
-💻 **Desenvolvedor Back-end**
+💻 **Desenvolvedor Back-End**
 📍 Fortaleza, CE 🇧🇷
 
 Atualmente estou cursando **Ciência da Computação**, no 2º semestre, e possuo formação técnica em **Análise e Desenvolvimento de Sistemas** pelo **SENAI**.
