@@ -40,8 +40,8 @@ Atualmente em Ciência da Computação na Estácio estou aprimorando meus conhec
 **🎓 Ciência da Computação**
 2º semestre — Em andamento - Estácio
 
-**💻 Técnico em Análise e Desenvolvimento de Sistemas**
-- SENAI — Concluído
+**💻 Técnico em Análise e Desenvolvimento de Sistemas** -
+ SENAI — Concluído
 
 ---
 
