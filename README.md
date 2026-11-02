@@ -48,6 +48,8 @@ Atualmente em Ciência da Computação na Estácio estou aprimorando meus conhec
 
 📧 **E-mail:** [delimasantanapedrohenrique@gmail.com](mailto:delimasantanapedrohenrique@gmail.com)
 
+**LinkedIn:** www.linkedin.com/in/pedrohenriquee0710
+
 ---
 
 <div align="center">
