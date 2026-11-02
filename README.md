@@ -12,7 +12,7 @@
 
 Atualmente estou cursando **Ciência da Computação**, e possuo formação técnica em **Análise e Desenvolvimento de Sistemas** pelo **SENAI**.
 
-Tenho experiência com **JavaScript**, **Python**, **Git**, **GitHub** e **MySQL**. Atualmente, estou estudando **Java** e buscando aprimorar meus conhecimentos em desenvolvimento Back-End.
+Tenho experiência com **JavaScript**, **Git**, **GitHub** e **MySQL**. Atualmente, estou estudando **Java** e buscando aprimorar meus conhecimentos em desenvolvimento Back-End.
 
 Durante minha formação em Analise Desenvolvimento de Sistemas pelo SENAI desenvolvi projetos pessoais e em grupos, adquirindo experiência tanto em banco de dados como no versionamento de código (Git).
 
